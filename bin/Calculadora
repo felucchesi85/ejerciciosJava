@@ -1,0 +1,24 @@
+
+
+
+public class Calculadora{
+    public int  sumarCalculadora(int a, int b)
+    {
+        return  +b;
+    }
+  5
+}
+
+
+
+
+@Test
+public void testSumarCalculadora(){
+    Calculadora c = new Calculadora();
+    if( a != null){
+        system.
+    }
+    assertEquals(5, c.sumarCalculadora(2,3);
+}
+
+

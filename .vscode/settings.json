@@ -1,0 +1,29 @@
+{
+    "java.project.sourcePaths": [
+        "pei_java/Java",
+        "pei_java/Exceptions",
+        "Ejercicios",
+        "pei_java/flucchesi",
+        "Ejercicios\\courses-app"
+    ],
+    "java.project.outputPath": "bin",
+    "java.compile.nullAnalysis.mode": "automatic",
+    //"java.jdt.ls.java.home": "C:\\Java jdk\\jdk-21.0.7.6-hotspot",
+    //"java.jdt.ls.java.home": "C:\\Java jdk\\jdk-17",
+    "java.jdt.ls.java.home": "C:\\Java jdk\\jdk-8.0.452.9-hotspot",
+    "java.configuration.runtimes": [
+            {
+                "name": "JavaSE-1.8",
+                "path": "C:\\Java jdk\\jdk-8.0.452.9-hotspot",
+                "default": true
+/*             },
+            {
+                "name": "JavaSE-17",
+                "path": "C:\\Java jdk\\jdk-17",
+                "default": false */
+            }
+        ],
+        "java.debug.settings.onBuildFailureProceed": true,
+        "java.format.settings.url": ".vscode/java-formatter.xml",
+        "java.project.referencedLibraries": []
+}
