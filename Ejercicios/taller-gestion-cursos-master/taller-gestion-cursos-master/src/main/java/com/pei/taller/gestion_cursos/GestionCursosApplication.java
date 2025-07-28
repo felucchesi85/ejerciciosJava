@@ -1,3 +1,4 @@
+package com.pei.taller.gestion_cursos;
 
 
 import org.springframework.boot.SpringApplication;
